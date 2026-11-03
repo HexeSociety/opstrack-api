@@ -1,4 +1,5 @@
 # OpsTrack API
+![CI](https://github.com/HexeSociety/opstrack-api/actions/workflows/ci.yml/badge.svg)
 
 A **OpsTrack API** é uma API desenvolvida em Python com Flask para simular o gerenciamento de chamados e informações de um serviço. O projeto também utiliza ferramentas de qualidade de código para manter um padrão durante o desenvolvimento.
 
