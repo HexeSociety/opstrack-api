@@ -16,7 +16,7 @@ def home():
 @app.route("/status")
 def status():
     return jsonify({
-        "status": "ok"
+        "status": "oks"
     })
 
 
